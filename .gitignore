@@ -63,3 +63,4 @@ typings/
 #pasword.js file containing info to RPC endpoints
 
 password.js
+build/
