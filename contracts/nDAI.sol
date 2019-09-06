@@ -109,6 +109,7 @@ contract nDAI is ERC20Interface, Owned {
 
     // event Contribute(address indexed contributor);
     // event ReturnEth(address indexed contributor);
+    //mapping(address => uint) contributions;
     mapping(address => uint) balances;
     mapping(address => mapping(address => uint)) allowed;
 
