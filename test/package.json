@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nDAI.js",
+  "scripts": {
+    "test": " mocha -t 15000 ./*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.1"
+  }
+}
