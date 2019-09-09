@@ -4,7 +4,7 @@
   "description": "",
   "main": "nDAI.js",
   "scripts": {
-    "test": " mocha -t 15000 ./*.js"
+    "test": " mocha -t 15000 ./test/*.js"
   },
   "author": "",
   "license": "ISC",
